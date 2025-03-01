@@ -14,8 +14,6 @@ Hi, I'm **Jiaocheng Hu**, a Master's student at the **School of Electronics and 
 - 📫 You can reach me via email at **hujch23@qq.com**.  
 
 
-
-### **GitHub Stats**  
 <table>  
   <tr>  
     <td>  
@@ -27,9 +25,4 @@ Hi, I'm **Jiaocheng Hu**, a Master's student at the **School of Electronics and 
   </tr>  
 </table>  
 
----  
 
-### **Contact Me**  
-- 📫 Email: **hujch23@qq.com**  
-- 🌐 GitHub: [hujch23](https://github.com/hujch23)  
-- 📄 [Curriculum Vitae](https://github.com/hujch23)
