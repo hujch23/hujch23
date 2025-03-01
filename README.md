@@ -13,3 +13,4 @@ Hi, I'm Jiaocheng Hu, a Master's student at the School of Electronics and Commun
 
 ![LovelyBuggies's github stats](https://github-readme-stats.vercel.app/api?username=hujch23&show_icons=true&hide_border=true)
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="250" />
