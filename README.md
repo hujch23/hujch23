@@ -13,23 +13,7 @@ Hi, I'm **Jiaocheng Hu**, a Master's student at the **School of Electronics and 
 - 💬 Feel free to ask me about robotics algorithms, deep RL, or anything AI-related.  
 - 📫 You can reach me via email at **hujch23@qq.com**.  
 
----  
 
-### **Skills**  
-- **Programming**:  
-  - Proficient in **Python** (primary language) and **PyTorch** framework.  
-  - Familiar with **C++** and **TensorFlow**.  
-
-- **Algorithms**:  
-  - Expertise in **deep reinforcement learning algorithms** (PPO, MuZero, Dreamer series).  
-  - Experience with **diffusion strategies** and reproducing state-of-the-art robotics algorithms (e.g., NoMad, UMI).  
-  - Familiar with **generative AI** technologies (GPT, BERT, LLAMA, OpenVLA, GR2).  
-
-- **Robotics Platforms**:  
-  - Hands-on experience with **Habitat Lab**, **Airsim**, **NVIDIA Isaac Lab**, and **ROS**.  
-  - Skilled in robot simulation and real-world deployment.  
-
----  
 
 ### **GitHub Stats**  
 <table>  
