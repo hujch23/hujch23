@@ -1,18 +1,17 @@
 ### Welcome to Jiaocheng Hu's Hut 👋
 
-
-Hi, I'm N!no 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an open-source profession and always develop in Python 🐍. Currently, I'm working on [scikit-hep/hist](https://github.com/scikit-hep/hist) and [antvis/G6](https://github.com/antvis/G6). Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
+Hi, I'm Jiaocheng Hu, a Master's student at the School of Electronics and Communication Engineering, Sun Yat-sen University. My research focuses on robotics, deep reinforcement learning, visual navigation, and world models. I'm passionate about exploring cutting-edge technologies in AI and robotics! 🤖✨
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 **Current Status Quo**
 
-- 👨🏻‍💻 I’m currently working on [scikit-hep/hist](https://github.com/scikit-hep/hist) and [antvis/G6](https://github.com/antvis/G6).
-- 🌱 I’m currently learning TypeScripts and Python.
-- 🤔 My research interests are with Blockchain Systems, Deep Reinforcement Learning, etc.
-- 💼 I’m pursuing a Ph.D. degree or R.A. position.
-- 💬 Ask me about anything, I would like to answer.
-- 📫 Please email via ninomyemail@gmail.com to reach me.
-- 👀 See my [Curriculum Vitae](https://drive.google.com/file/d/1mr_yoVcBn6QolFWAOXSJzxQYvO7ShjNu/view?ths=true) to get more info.
+- 👨🏻‍💻 I’m currently working on projects related to robot navigation, world modeling, and deep reinforcement learning.
+- 🌱 I’m diving deeper into Python, PyTorch, and robotics frameworks.
+- 🤔 My research interests include robotics, visual navigation, world models, and AI decision-making systems.
+- 💼 I’m open to collaboration opportunities in robotics, AI, or related fields
+- 💬 Feel free to ask me about robotics algorithms, deep RL, or anything AI-related.
+- 📫  You can reach me via email at hujch23@qq.com.
+
 
 
