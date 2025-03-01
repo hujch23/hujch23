@@ -11,6 +11,6 @@ Hi, I'm Jiaocheng Hu, a Master's student at the School of Electronics and Commun
 - 💬 Feel free to ask me about robotics algorithms, deep RL, or anything AI-related.
 - 📫  You can reach me via email at hujch23@qq.com.
 
-![LovelyBuggies's github stats](https://github-readme-stats.vercel.app/api?username=hujch23&show_icons=true&hide_border=true)
+![LovelyBuggies's github stats](https://github-readme-stats.vercel.app/api?username=hujch23&show_icons=true&hide_border=true)<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="250" />
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="250" />
+
