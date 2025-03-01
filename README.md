@@ -2,7 +2,7 @@
 
 Hi, I'm Jiaocheng Hu, a Master's student at the School of Electronics and Communication Engineering, Sun Yat-sen University. My research focuses on robotics, deep reinforcement learning, visual navigation, and world models. I'm passionate about exploring cutting-edge technologies in AI and robotics, and I strive to push the boundaries of intelligent systems! 🤖✨  
 
-I mainly use GitHub to share my research work and learning materials prepared during my current job-hunting journey.  
+I mainly use GitHub to share my research work and learning materials prepared during my current job-hunting journey 💪.  
 
 ---  
 
